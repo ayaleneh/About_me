@@ -11,7 +11,7 @@ function handler(){
    alert("you make amistake try the next");
  }
  let m_age=prompt("guess my age "+name);
- if(m_age==22){
+ if(m_age=="22"){
    alert("great..go ahead for the next question");
  }
  else{
