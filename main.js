@@ -7,6 +7,8 @@ function handler(){
  let m_name=prompt("Do you remeber my name if so write it? "+name)
  if(m_name =="ayaleneh")
  {
+   let value=m_name.toLocaleUpperCase()
+   alert(value);
    alert("great job! go ahead for next question")
    counter++;
  }
@@ -38,7 +40,7 @@ function handler(){
    counter++;
  }
  else {
-   alert("i like programming ...")
+   alert("i like programming..")
  }
  let fifth=prompt("if you read my about me did i born in ethiopia?")
  if (fifth=="yes"){
