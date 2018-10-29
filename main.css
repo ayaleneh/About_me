@@ -1,8 +1,9 @@
 .whole{
-  background-color: aquamarine;
+
   background-image:url("golf.jpg");
   align-content: center;
-  text-indent: 1.5%
+  text-indent: 1.5%;
+  color: white
 }
 #head1{
   font-size: 70px;
@@ -12,7 +13,7 @@
 }
 #head2{
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 60px;
   text-decoration: underline;
 }
 #image{
@@ -20,7 +21,7 @@
   width: 250px;
 }
 .para1{
-  font-size: 18px;
+  font-size: 23px;
   text-transform: capitalize;
 }
 #edu{
